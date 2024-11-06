@@ -48,10 +48,8 @@ interests:
 education:
   - area: BBA Financial Engineering
     institution: The Chinese University of Hong Kong, Shenzhen
-    date_start: 2016-01-01
-    date_end: 2020-12-31
-    summary: |
-      Thesis on _Why LLMs are awesome_. Supervised by [Prof Joe Smith](https://example.com). Presented papers at 5 IEEE conferences with the contributions being published in 2 Springer journals.
+    date_start: 2020-09-01
+    date_end: 2020-05-31
     button:
       text: 'Read Thesis'
       url: 'https://example.com'
