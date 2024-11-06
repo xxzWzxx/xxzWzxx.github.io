@@ -57,7 +57,7 @@ education:
     date_start: 2023-01-12
     date_end: 2023-05-21
     summary: |
-      GPA: 3.8/4.0
+      GPA: 4.0/4.0
 
 # Skills
 # Add your own SVG icons to `assets/media/icons/`
