@@ -1,13 +1,13 @@
 ---
 # Display name
-title: Zixiao Wang
+title: WANG, Zixiao
 
 # Name pronunciation (optional)
 name_pronunciation: ''
 
 # Full name (for SEO)
-first_name: Shiung Wu
-last_name: Chien
+first_name: Zixiao
+last_name: Wang
 
 # Status emoji
 status:
@@ -20,31 +20,25 @@ superuser: true
 highlight_name: true
 
 # Role/position/tagline
-role: Chief Scientist
+role: Research Assistant
 
 # Organizations/Affiliations to display in Biography blox
 organizations:
-  - name: OpenAI
-    url: https://openai.com/
+  - name: The Chinese University of Hong Kong, Shenzhen
+    url: https://www.cuhk.edu.cn/en
 
 # Social network links
 # Need to use another icon? Simply download the SVG icon to your `assets/media/icons/` folder.
 profiles:
-  - icon: at-symbol
-    url: 'mailto:your-email@example.com'
+  - icon: envelope
+    url: 'mailto:zixiaowang@link.cuhk.edu.cn'
     label: E-mail Me
-  - icon: brands/x
-    url: https://twitter.com/GetResearchDev
-  - icon: brands/instagram
-    url: https://www.instagram.com/
   - icon: brands/github
-    url: https://github.com/gcushen
+    url: https://github.com/xxzWzxx?tab=overview
   - icon: brands/linkedin
-    url: https://www.linkedin.com/
-  - icon: academicons/google-scholar
-    url: https://scholar.google.com/
-  - icon: academicons/orcid
-    url: https://orcid.org/
+    url: https://www.linkedin.com/in/zixiao-wang-95a2802a8/
+  - icon: file
+    url: ''
 
 interests:
   - Artificial Intelligence
