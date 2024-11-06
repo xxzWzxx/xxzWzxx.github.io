@@ -59,47 +59,46 @@ education:
     summary: |
       GPA: 4.0/4.0
 
+work:
+  - position: Research Assistant
+    company_name: The Chinese University of Hong Kong, Shenzhen
+    company_url: ''
+    company_logo: ''
+    date_start: 2024-06-01
+    date_end: ''
+
 # Skills
 # Add your own SVG icons to `assets/media/icons/`
 skills:
   - name: Technical Skills
     items:
       - name: Python
-        description: ''
-        percent: 80
-        icon: brands/python
-      - name: Data Science
-        description: ''
+        description: Proficient in numpy, pandas, scipy and pytorch.
         percent: 100
-        icon: brands/python
-      - name: SQL
-        description: ''
-        percent: 40
-        icon: brands/python
+        icon: brand/python
+
   - name: Hobbies
     color: '#eeac02'
     color_border: '#f0bf23'
     items:
-      - name: Hiking
-        description: ''
-        percent: 60
-        icon: person-simple-walk
-      - name: Cats
+      - name: Dogs
         description: ''
         percent: 100
-        icon: cat
-      - name: Photography
+        icon: dog
+      - name: Games
         description: ''
-        percent: 80
-        icon: camera
+        percent: 100
+        icon: game
+      - name: Gym
+        description: ''
+        percent: 100
+        icon: gym
 
 languages:
   - name: English
-    percent: 100
-  - name: Chinese
     percent: 75
-  - name: Portuguese
-    percent: 25
+  - name: Chinese
+    percent: 100
 
 # Awards.
 #   Add/remove as many awards below as you like.
