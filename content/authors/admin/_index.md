@@ -47,7 +47,7 @@ interests:
 
 education:
   - area: BBA Financial Engineering
-    institution: The Chinese University of Hong Kong, Shenzhen
+    institution: 'The Chinese University of Hong Kong, Shenzhen'
     date_start: 2020-09
     date_end: 2024-05
     summary: |
