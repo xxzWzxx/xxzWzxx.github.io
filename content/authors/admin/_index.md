@@ -37,7 +37,7 @@ profiles:
     url: https://github.com/xxzWzxx?tab=overview
   - icon: brands/linkedin
     url: https://www.linkedin.com/in/zixiao-wang-95a2802a8/
-  - icon:> file
+  - icon: file
     url: ''
     label: CV
 
@@ -51,15 +51,6 @@ education:
     institution: The Chinese University of Hong Kong, Shenzhen
     date_start: 2020-09
     date_end: 2024-05
-    # summary: |
-      # ''
-      # Courses included:
-      # - lorem ipsum dolor sit amet, consectetur adipiscing elit
-      # - lorem ipsum dolor sit amet, consectetur adipiscing elit
-      # - lorem ipsum dolor sit amet, consectetur adipiscing elit
-    # button:
-      # text: 'Read Thesis'
-      # url: 'https://example.com'
 
 work:
   - position: Research Assistant
@@ -68,11 +59,6 @@ work:
     company_logo: ''
     date_start: 2024-06-01
     date_end: ''
-    # summary: |
-      # Responsibilities include:
-      # - Migrated infrastructure to a new data center
-      # - lorem ipsum dolor sit amet, consectetur adipiscing elit
-      # - lorem ipsum dolor sit amet, consectetur adipiscing elit
 
 # Skills
 # Add your own SVG icons to `assets/media/icons/`
@@ -105,22 +91,7 @@ languages:
   - name: English
     percent: 75
   - name: Chinese
-
     percent: 100
-
-
-# Awards.
-#   Add/remove as many awards below as you like.
-#   Only `title`, `awarder`, and `date` are required.
-#   Begin multi-line `summary` with YAML's `|` or `|2-` multi-line prefix and indent 2 spaces below.
-#awards:
-#  - title: Neural Networks and Deep Learning
-#    url: https://www.coursera.org/learn/neural-networks-deep-learning
-#    date: '2023-11-25'
-#    awarder: Coursera
-#    icon: coursera
-#    summary: |
-#      I studied the foundational concept of neural networks and deep learning. By the end, I was familiar with the significant technological trends driving the rise of deep learning; #build, train, and apply fully connected deep neural networks; implement efficient (vectorized) neural networks; identify key parameters in a neural network’s architecture; and apply deep #learning to your own applications.
 ---
 ## About Me
 
