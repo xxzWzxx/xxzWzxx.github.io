@@ -1,6 +1,6 @@
 ---
 # Display name
-title: WANG, Zixiao
+title: Zixiao Wang
 
 # Name pronunciation (optional)
 name_pronunciation: ''
