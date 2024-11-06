@@ -51,7 +51,10 @@ education:
     date_start: 2020-09
     date_end: 2024-05
     summary: |
-      Wondeful undergraduate journey! I found my true passion here.
+      Thesis on _Why LLMs are awesome_. Supervised by [Prof Joe Smith](https://example.com). Presented papers at 5 IEEE conferences with the contributions being published in 2 Springer journals.
+    button:
+      text: 'Read Thesis'
+      url: 'https://example.com'
   - area: MEng Artificial Intelligence
     institution: Massachusetts Institute of Technology
     date_start: 2016-01-01
