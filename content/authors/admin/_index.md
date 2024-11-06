@@ -39,7 +39,6 @@ profiles:
     url: https://www.linkedin.com/in/zixiao-wang-95a2802a8/
   - icon: file
     url: ''
-    label: CV
 
 interests:
   - Operation Management
