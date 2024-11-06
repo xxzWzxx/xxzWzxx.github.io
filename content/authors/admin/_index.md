@@ -49,7 +49,15 @@ education:
   - area: BBA Financial Engineering
     institution: The Chinese University of Hong Kong, Shenzhen
     date_start: 2020-09-01
-    date_end: 2020-05-31
+    date_end: 2024-05-31
+    summary: |
+      First-class Honor
+  - area: Visiting
+    institution: University of California, Berkeley
+    date_start: 2023-01-12
+    date_end: 2023-05-21
+    summary: |
+      GPA: 3.8/4.0
 
 # Skills
 # Add your own SVG icons to `assets/media/icons/`
