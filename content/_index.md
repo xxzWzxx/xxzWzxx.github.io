@@ -37,7 +37,7 @@ sections:
       text: |-
         I want to augment the traditional operations management problems with machine learning methods to help people make good decisions efficiently and transparently. Currently, I decompose this goal into two parts: (i) identifying and utilizing key problem structures that lead to efficiency and explainability in algorithms, (ii) developing algorithms that systematically translate advances in machine learning into data-driven decision-making methods. 
 
-	My ultimate goal is to make the world a better place through my research. 🧐
+        My ultimate goal is to make the world a better place through my research. 🧐
     design:
       columns: '1'
 #  - block: collection
