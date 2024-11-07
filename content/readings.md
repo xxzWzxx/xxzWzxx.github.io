@@ -1,23 +1,13 @@
----
-title: 'Papers'
-date: 2024-11-07
-type: landing
+# Reading List
 
-design:
-  # Section spacing
-  spacing: '5rem'
+Here are some books I am currently reading:
 
-# Page sections
-sections:
-  - block: collection
-    content:
-      title: Reading List
-      text: Here are some books I am currently reading.
-      filters:
-        folders:
-          - project
-    design:
-      view: article-grid
-      fill_image: false
-      columns: 3
----
+*Principles of Mathematical Analysis (Third Edition)* by Walter Rudin
+
+* Refresh my memory of mathematical analysis.
+
+*Introduction to Linear Optimization* by Dimitris Bertsimas and John Tsitsiklis
+
+- My emphasis is on section 4 (Duality theory).
+
+*A Modern Introduction to Online Learning* by Francesco Orabona
