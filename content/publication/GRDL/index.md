@@ -1,5 +1,5 @@
 ---
-title: 'An example conference paper'
+title: 'Graph Classification via Reference Distribution Learning: Theory and Practice'
 
 # Authors
 # If you created a profile for a user (e.g. the default `admin` user), write the username (folder name) here
@@ -13,7 +13,7 @@ authors:
 #  - 'Equal contribution'
 #  - 'Equal contribution'
 
-date: '2024-11-07T00:00:00Z'
+date: '2024-11-06T00:00:00Z'
 doi: ''
 
 # Schedule page publish date (NOT publication's date).
