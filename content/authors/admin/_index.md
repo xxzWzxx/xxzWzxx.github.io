@@ -11,7 +11,7 @@ last_name: Wang
 
 # Status emoji
 status:
-  icon: ☕️
+  icon: 👾
 
 # Is this the primary user of the site?
 superuser: true
@@ -37,8 +37,6 @@ profiles:
     url: https://github.com/xxzWzxx?tab=overview
   - icon: brands/linkedin
     url: https://www.linkedin.com/in/zixiao-wang-95a2802a8/
-  - icon: file
-    url: ''
 
 interests:
   - Operation Management
