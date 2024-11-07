@@ -1,6 +1,6 @@
 ---
-title: 'Projects'
-date: 2024-05-19
+title: 'Papers'
+date: 2024-11-07
 type: landing
 
 design:
