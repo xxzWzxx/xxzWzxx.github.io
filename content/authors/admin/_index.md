@@ -49,7 +49,7 @@ education:
     date_start: 2020-09-01
     date_end: 2024-05-31
     summary: |
-      First-class Honor
+      First Class Honor
   - area: Visiting
     institution: University of California, Berkeley
     date_start: 2023-01-12

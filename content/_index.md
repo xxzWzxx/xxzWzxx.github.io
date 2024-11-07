@@ -35,9 +35,15 @@ sections:
       title: '📚 My Research'
       subtitle: ''
       text: |-
-        I want to augment the traditional operations management problems with machine learning methods to help people make good decisions efficiently and transparently. Currently, I decompose this goal into two parts: (i) identifying and utilizing key problem structures that lead to efficiency and explainability in algorithms, (ii) developing algorithms that systematically translate advances in machine learning into data-driven decision-making methods. 
+        I want to apply machine learning methods to traditional operations management problems to help people make good decisions efficiently and transparently. Currently, I decompose this goal into two parts: 
 
-        My ultimate goal is to make the world a better place through my research. 🧐
+        (i) identifying and utilizing key problem structures that lead to efficiency and explainability in algorithms, 
+
+        (ii) developing algorithms that systematically translate advances in machine learning into data-driven decision-making methods.
+  
+        I am currently focusing on business operation. I am willing to explore healthcare operation and other topics in the future!
+
+        My dream is to make the world a better place through my research. 🌏
     design:
       columns: '1'
 #  - block: collection
