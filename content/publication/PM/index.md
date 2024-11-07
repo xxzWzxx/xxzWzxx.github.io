@@ -1,5 +1,5 @@
 ---
-title: "Dynamic pricing competition with posterior price matching under vertical product differentiation (Ongoing)"
+title: "Dynamic pricing competition with posterior price matching under vertical product differentiation"
 authors:
 - admin
 - Zizhuo Wang
@@ -15,8 +15,8 @@ publishDate: "2024-11-07T00:00:00Z"
 publication_types: ["article"]
 
 # Publication name and optional abbreviated publication name.
-publication: ""
-publication_short: ""
+publication: "(Ongoing)"
+publication_short: "(Ongoing)"
 
 abstract: 
 

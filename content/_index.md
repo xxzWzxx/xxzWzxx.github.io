@@ -53,6 +53,16 @@ sections:
 #      columns: 2
   - block: collection
     content:
+      title: Working Paper
+      text: ""
+      filters:
+        folders:
+          - working
+        exclude_featured: false
+    design:
+      view: citation
+  - block: collection
+    content:
       title: Recent Publications
       text: ""
       filters:
