@@ -6,10 +6,10 @@
 main:
   - name: Bio
     url: /
-    weight: 10
+    weight: 7
   - name: Readings
     url: readings/
-    weight: 11
+    weight: 9
   # - name: Talks
   #   url: /#talks
   #   weight: 12

@@ -1,6 +1,6 @@
 # Readings
 
-This is a collection of readings I have or plan to read. If you have some good books or articles related, welcome to share them with me.
+This is a collection of readings I have read or plan to read. If you have some good books or articles related, welcome to share them with me.
 
 ## My reading List
 
