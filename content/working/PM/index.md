@@ -1,8 +1,7 @@
 ---
-title: "Dynamic pricing competition with posterior price matching under vertical product differentiation"
+title: ""
 authors:
 - admin
-- Zizhuo Wang
 date: "2024-11-07T00:00:00Z"
 doi: ""
 
@@ -15,14 +14,13 @@ publishDate: "2024-11-07T00:00:00Z"
 publication_types: ["article"]
 
 # Publication name and optional abbreviated publication name.
-publication: "(Ongoing)"
-publication_short: "(Ongoing)"
+publication: ""
+publication_short: ""
 
 abstract: 
 
 tags:
 - Operation Mangement
-- Game Theory
 
 featured: true
 
