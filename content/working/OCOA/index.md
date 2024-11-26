@@ -2,7 +2,6 @@
 title: "Omnichannel Assortment Optimization under Markovian Channel Switch"
 authors:
 - admin
-- Zizhuo Wang
 date: "2024-11-07T00:00:00Z"
 doi: ""
 
