@@ -63,7 +63,7 @@ sections:
       text: ""
       filters:
         folders:
-          - ongoing
+          - working
         exclude_featured: false
     design:
       view: citation
@@ -77,13 +77,4 @@ sections:
         exclude_featured: false
     design:
       view: citation
-  - block: collection
-    content:
-      title: ""
-      filters:
-        folders:
-          - working
-    design:
-      view: article-grid
-      columns: 1
 ---
